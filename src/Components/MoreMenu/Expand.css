@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    width: 98%;
+    background-color: grey;
+    color: white;
+    border: 1px solid white;
+
+}
+
+#btnn{margin-top: 5px;
+    font-size: 20px;
+    height: 25px;
+}

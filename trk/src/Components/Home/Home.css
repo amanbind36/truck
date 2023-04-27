@@ -1,0 +1,140 @@
+
+
+
+
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 600px;
+    object-fit: fill;
+  }
+  
+  
+  .swiper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mySwiper{
+    width: 100%;
+  }
+
+ #btnTruck{
+    padding: 10px 15px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.325);
+    border-radius: 20px;
+    font-size: 20px;
+ }
+
+ 
+ #btnTruck:hover{
+    padding: 5px 10px;
+    color: rgb(6, 6, 6);
+    background-color: rgb(253, 250, 250);
+    border-radius: 20px;
+ }
+
+  #heading1{
+    font-size: 45px;
+    color: white;
+
+    
+  }
+
+  #discrib{
+    font-size: 20px;
+color: white ;
+  }
+
+  .titleDiv{
+    z-index: 5;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+  }
+  #myBtn1{
+    padding: 7px 14px;
+    font-size: 17px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgba(5, 5, 215, 0.825) ;
+
+  }
+
+  #myBtn1:hover{
+    padding: 7px 14px;
+    font-size: 17px;
+    border-radius: 20px;
+    color: white;
+    background-color:white;
+    color:rgba(5, 5, 215, 0.825) ;
+    transition: 0.5s;
+
+
+  }
+  
+  #myBtn2{
+    padding: 7px 14px;
+    font-size: 17px;
+    border-radius: 20px;
+    color: white;
+    background: transparent;
+  }
+  #myBtn2:hover{
+    color: white;
+    background-color:rgba(5, 5, 215, 0.825) ;
+    transition: 0.5s;
+  }
+
+  #CardTitle1{
+    font-size: 35px;
+    padding: 25px;
+  }
+
+#Virtual{
+    font-size: 20px;
+    color: black;
+    padding: 9px 15px;
+}
+  .img{
+    height: 250px;
+    width: 250px;
+  }
+
+  #nameText{
+    font-size: 20px;
+  }
+  .cardsTruck{
+display: flex;
+justify-content: space-around;
+  }
+
+  #eachCard{
+    border: 1px solid rgba(0, 0, 0, 0.703);
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: rgba(221, 221, 221, 0.829);
+    border-radius: 20px;
+    
+
+  }
+  

@@ -1,0 +1,45 @@
+.mainPageContainer{
+    margin-top: 20px;
+    border: 2px solid green;
+    height: 600px;
+}
+.btnDiv{
+text-align: left;
+margin-left: 25px;
+}
+
+.buyBtn{
+font-size: 20px;
+padding: 5px 10px;
+}
+
+.sellBtn{
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.heading{
+font-size: 35px;
+}
+.discribee{
+    font-size: 18px;
+
+}
+
+
+.cardsContainerss{
+display: flex;
+justify-content: space-around;
+}
+
+.itemCard{
+    border: 1px solid black;
+    padding: 5px 10px;
+    font-size: 20px;
+
+}
+
+#imgg{
+height: 250px;
+width: 350px;
+}
